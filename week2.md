@@ -1,4 +1,4 @@
-# ⚡ Week 2 – JavaScript Fundamentals & Advanced Concepts
+# Week 2 – JavaScript Fundamentals & Advanced Concepts
 
 
 ## Topics Covered
@@ -17,7 +17,7 @@
 
 ---
 
-## 💡 Key Learnings & Takeaways
+## Key Learnings & Takeaways
 
 * **Block Scope Mastery:** Eliminated unintended variable leakage by leveraging `let` and `const`.
 * **Functional Declarative Code:** Streamlined data processing pipelines using higher-order array methods (`map`, `filter`, `find`) instead of traditional manual loops.
